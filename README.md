@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GUARDIAN</h1>
-<h3 align="center">I usually test things for bugs and help improving them. And I sometimes codes some basic stuff :)</h3>
+<h3 align="center">I usually test things for bugs and help improving them. And I sometimes code some basic stuff :)</h3>
 
 - 🌱 I’m currently learning **Java, Python , Node**
 
