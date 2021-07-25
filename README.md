@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Python , Node**
 
-- 📫 How to reach me **GUARDIAN#7777 , https://discord.com/users/556745797774082048/**
+- 📫 How to reach me **GUARDIAN#7777**
 
 
 <h3 align="left">Languages and Tools:</h3>
