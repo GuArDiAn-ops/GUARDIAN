@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GUARDIAN</h1>
 <h3 align="center">I usually test things for bugs and help improving them. And I sometimes code some basic stuff :)</h3>
 
-- 🌱 I’m currently learning **Java, Python , Node**
+- 🌱 I’m currently learning **Java, Golang , Node**
 
 - 📫 How to reach me **GUARDIAN#7777**
 
